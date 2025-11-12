@@ -32,7 +32,7 @@ A real-time object detection and navigation assistant application designed to he
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/navigation-assistant.git
+git clone https://github.com/ibrandos/navigation-assistant.git
 cd navigation-assistant
 ```
 
@@ -178,7 +178,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
 
-Project Link: [https://github.com/yourusername/navigation-assistant](https://github.com/yourusername/navigation-assistant)
+Project Link: [https://github.com/ibrandos/navigation-assistant](https://github.com/ibrandos/navigation-assistant)
 
 ## Support
 
